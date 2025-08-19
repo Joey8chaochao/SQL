@@ -1,2 +1,3 @@
-rint('welcome to the tip calculator!')
+print("Welcome to the rollercoaster!")
+height = int(input("What is your height in cm? "))
 
